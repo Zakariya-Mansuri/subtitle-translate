@@ -13,7 +13,6 @@ This project is a web application that allows users to upload an audio file (in 
 - pydub
 - moviepy
 
-To install the dependencies, run `pip install -r requirements.txt` in your terminal.
 
 ## Usage
 
